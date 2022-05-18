@@ -3,10 +3,10 @@
 ---
 
 ## Logo:
-<img src="icons/logo.png#b73aa9a9be5c23f46db580efc04508dc07bf252d0027369e0d11788f786a32d7" width="100" height="100"/>
+<img src="icons/logo.png#00a636bea459c96c2a226f71cdf943057050a9c29f4ce23528939b39cbc979e6" width="100" height="100"/>
 
 Github:
 
-png: [https://raw.githubusercontent.com/A-DEX/ricardian-icons/main/icons/logo.png#b73aa9a9be5c23f46db580efc04508dc07bf252d0027369e0d11788f786a32d7](https://raw.githubusercontent.com/A-DEX/ricardian-icons/main/icons/logo.png#b73aa9a9be5c23f46db580efc04508dc07bf252d0027369e0d11788f786a32d7)
+png: [https://raw.githubusercontent.com/A-DEX/ricardian-icons/main/icons/logo.png#00a636bea459c96c2a226f71cdf943057050a9c29f4ce23528939b39cbc979e6](https://raw.githubusercontent.com/A-DEX/ricardian-icons/main/icons/logo.png#00a636bea459c96c2a226f71cdf943057050a9c29f4ce23528939b39cbc979e6)
 
-svg: [https://raw.githubusercontent.com/A-DEX/ricardian-icons/main/icons/logo.svg#d7154ed54a80d760d14c249aa0bdafe9f7e785646dab9a41c24ff297af50a976](https://raw.githubusercontent.com/A-DEX/ricardian-icons/main/icons/logo.svg#d7154ed54a80d760d14c249aa0bdafe9f7e785646dab9a41c24ff297af50a976)
+svg: [https://raw.githubusercontent.com/A-DEX/ricardian-icons/main/icons/logo.svg#080565551c9d68eeb0fee755f7e89cfdc2407daa2bcce6a0a9b6419e55f5596f](https://raw.githubusercontent.com/A-DEX/ricardian-icons/main/icons/logo.svg#080565551c9d68eeb0fee755f7e89cfdc2407daa2bcce6a0a9b6419e55f5596f)
